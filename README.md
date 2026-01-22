@@ -22,7 +22,7 @@ Click the button below to download the latest version of the app.
 ## 📸 Screenshots
 | Main Screen | Settings |
 | :---: | :---: |
-| <img src="screenshot1.png" width="200"> | <img src="screenshot2.png" width="200"> |
+| <img src="screenshot1.jpg" width="200"> | <img src="screenshot2.png" width="200"> |
 
 ---
 

@@ -1,4 +1,4 @@
-# 📱 [App Name]
+# 📱 [Tempo-Timer]
 
 Android app allowing the user to define a 7 phase motor power profile for a free flight model aircraft.
 ---
@@ -14,9 +14,8 @@ Click the button below to download the latest version of the app.
 ---
 
 ## ✨ Features
-* **Feature 1:** Describe a cool thing it does.
-* **Feature 2:** Describe another thing.
-* **Feature 3:** Built with MIT App Inventor.
+* **Feature 1:** Allows the user to define a 7 phase motor power profile for free flight model aircraft.
+* **Feature 2:** Built with MIT App Inventor.
 
 ---
 

@@ -19,10 +19,9 @@ Click the button below to download the latest version of the app.
 
 ---
 
-## 📸 Screenshots
-| Main Screen | Settings |
-| :---: | :---: |
-| <img src="screenshot1.jpg" width="200"> | <img src="CardinalAway.jpg" width="200"> |
+## 📸 Screenshots and in use:
+
+| <img src="screenshot1.jpg" width="200"> | <img src="CardinalAway.jpg" width="200"> | <img src="tempo.jpg" width="200"> |
 
 ---
 

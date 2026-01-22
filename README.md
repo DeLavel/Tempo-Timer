@@ -6,7 +6,7 @@ Android app allowing the user to define a 7 phase motor power profile for a free
 ## 📥 Download
 Click the button below to download the latest version of the app.
 
-[![Download APK](https://img.shields.io/badge/Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/DeLavel/Tempo-Timer/releases/latest/download/Tempo_TimerV1.0.0.apk)
+[![Download APK](https://img.shields.io/badge/Download-Latest%20APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/DeLavel/Tempo-Timer/releases/latest/download/Tempo_V1.0.0.apk)
 
 
 > **Note for Android Users:** Since this app is distributed via GitHub, you may see a "Play Protect" warning. Tap **More Details** → **Install Anyway** to proceed.
